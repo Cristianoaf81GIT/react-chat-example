@@ -12,6 +12,7 @@
 /build
 
 /functions/node_modules
+/functions/.env
 # misc
 .DS_Store
 .env.local
