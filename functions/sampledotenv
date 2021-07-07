@@ -1,0 +1,12 @@
+#legacy v1 workspace url sem /v1 ou /v2 em diante
+ASSISTANT_IAM_URL = 
+
+#api key
+ASSISTANT_IAM_APIKEY = 
+
+IAM_URL=https://iam.bluemix.net/identity/token
+
+#skill id
+WORKSPACE_ID=
+
+VERSION=

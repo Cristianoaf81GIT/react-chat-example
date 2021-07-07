@@ -1,0 +1,30 @@
+.chat-conteudo {
+    display: grid;
+    grid-template-rows: 80px auto 80px;
+    height: calc(100vh - 225px);
+    padding: 10px;
+    overflow-y: scroll; 
+}
+
+.chat-header {
+    background: #ddd;
+    text-align: center;
+}
+
+.chat-conversa {
+    background: #ddd;
+    position: relative;
+    height: 45%;
+    /* overflow: auto;  */
+}
+
+.chat-mensagem {
+    background: #ddd;
+    position: relative;
+    bottom: 0; 
+     
+}
+
+.chat-mensagem > div > div > button {
+    margin-left: 2px;
+}
